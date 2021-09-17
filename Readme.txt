@@ -26,4 +26,4 @@ Initialize the grid search
 7.Fit the grid search to identify the best model to training dataset.
 And generate submission file accordingly
 
-The model accuracy is 82.2%
+The model accuracy is 82.3%
